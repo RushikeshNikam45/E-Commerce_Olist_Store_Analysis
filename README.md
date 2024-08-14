@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # **Olist-E-commerce-Data-Analysis**
 ![image](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/assets/128150171/b57e7bae-89a7-4b4f-84cc-449cbd1912e3)
 --
@@ -194,6 +193,3 @@ Geolocations with higher customer densities indicate areas where the company has
 4. Olist should continuously improve products based on feedback and market trends. (Note: Regular evaluation and innovation keep products aligned with customer needs and preferences.)
 5. Olist should offer exceptional customer service to regain trust and loyalty. (Note: Going above and beyond to resolve issues and provide excellent service can turn negative experiences into positive ones, rebuilding customer trust.)
 By implementing these recommendations and considering the accompanying notes, Olist can enhance customer retention, address low ratings, and foster stronger customer relationships.
-=======
-# E-Commerce_Olist_Store_Analysis
->>>>>>> 959d591bb395ac833c850b2beda91329809064af
