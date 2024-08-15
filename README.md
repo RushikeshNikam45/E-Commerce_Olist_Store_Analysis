@@ -102,6 +102,5 @@ Messy                                                           | Cleaned
 𝟮) 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜:- To find insights values and to create a dynamic Dashboard.
 
 
-![Olist Store Analysis (Power BI Dashboard)](https://github.com/adityawasankar1/Olist_Store_Analysis/assets/121103358/186c2f4d-0544-499a-a0a6-ec268c22431c)
-
+![Screenshot 2024-08-13 023540](https://github.com/user-attachments/assets/eb8daca4-b2b7-4dae-aba3-d5d26267beff)
 
