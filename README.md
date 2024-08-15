@@ -101,11 +101,11 @@ Messy                                                           | Cleaned
 **3) MySQL**:- Utilized to manage and manipulate large datasets related to Olist Store's e-commerce operations.
 **4)Tableau**:- Tableau serves as a powerful tool for visualizing data insights and creating interactive dashboards for Olist Store's performance analysis.
 
-POWER BI DASHBOARD -
+**POWER BI DASHBOARD -**
 
 ![Screenshot 2024-08-13 023540](https://github.com/user-attachments/assets/eb8daca4-b2b7-4dae-aba3-d5d26267beff)
 
-TABLEAU DASHBOARD
+**TABLEAU DASHBOARD -**
 
 ![Tableau Project 1 SS](https://github.com/user-attachments/assets/c648625b-4d0a-4095-acd1-b326cefdbb7a)
 
