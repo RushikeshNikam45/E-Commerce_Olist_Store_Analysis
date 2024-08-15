@@ -98,7 +98,13 @@ Messy                                                           | Cleaned
 
 𝟭) 𝗘𝘅𝗰𝗲𝗹:- To clean data and add additional columns.
 𝟮) 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜:- To find insights values and to create a dynamic Dashboard.
+3) MySQL:- Utilized to manage and manipulate large datasets related to Olist Store's e-commerce operations.
+4)Tableau:- Tableau serves as a powerful tool for visualizing data insights and creating interactive dashboards for Olist Store's performance analysis.
 
-
+POWER BI DASHBOARD -
 ![Screenshot 2024-08-13 023540](https://github.com/user-attachments/assets/eb8daca4-b2b7-4dae-aba3-d5d26267beff)
+
+TABLEAU DASHBOARD
+![Screenshot 2024-08-15 174141](https://github.com/user-attachments/assets/3f4e9999-2c1f-4a11-af4a-e1ab61386cce)
+
 
