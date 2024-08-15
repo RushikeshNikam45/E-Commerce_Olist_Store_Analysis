@@ -14,7 +14,7 @@ I'm thrilled to showcase my Power BI skills with a fantastic dashboard project t
 
 𝐃𝐚𝐭𝐚𝐬𝐞𝐭:-
 
-Project Name: E-Commerce (Olist Store Analysis)
+Project Name: Olist Store Analysis
 Domain: E-Commerce
 Dataset Name: Total 9 files
 Dataset Type: CSV Data
