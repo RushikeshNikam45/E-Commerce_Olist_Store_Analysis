@@ -8,7 +8,7 @@ I'm thrilled to showcase my Power BI skills with a fantastic dashboard project t
 
 
 
-🌟 Introducing my Latest Power BI Project:- 𝐎𝐥𝐢𝐬𝐭 𝐒𝐭𝐨𝐫𝐞 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
+🌟 Introducing my Latest Power BI and Tableau Project:- 𝐎𝐥𝐢𝐬𝐭 𝐒𝐭𝐨𝐫𝐞 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
 
 
 
