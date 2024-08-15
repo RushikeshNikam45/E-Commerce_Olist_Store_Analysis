@@ -1,4 +1,4 @@
-# Olist_Store_Analysis
+# E-Commerce (Olist_Store_Analysis)
 
 ![E-Commerse Gif](https://github.com/user-attachments/assets/37937e00-52c2-490e-8d7b-d305dd182a4e)
 
