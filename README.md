@@ -86,20 +86,20 @@ Messy                                                           | Cleaned
 
 𝐈𝐧 𝐭𝐡𝐢𝐬 𝐩𝐫𝐨𝐣𝐞𝐜𝐭, 𝐈'𝐯𝐞 𝐝𝐞𝐦𝐨𝐧𝐬𝐭𝐫𝐚𝐭𝐞𝐝 𝐦𝐲 𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐭𝐨:-
 
-✅ Collect and preprocess data from diverse sources.
-✅ Design visually appealing and informative dashboards.
-✅ Create interactive filters and slicers for customized insights.
-✅ Highlight key performance indicators (KPIs) through clear visualizations.
-✅ Provide actionable insights that can drive strategic initiatives.
+#✅ Collect and preprocess data from diverse sources.
+#✅ Design visually appealing and informative dashboards.
+#✅ Create interactive filters and slicers for customized insights.
+#✅ Highlight key performance indicators (KPIs) through clear visualizations.
+#✅ Provide actionable insights that can drive strategic initiatives.
 
 
 
 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝:-
 
-𝟭) 𝗘𝘅𝗰𝗲𝗹:- To clean data and add additional columns.
-𝟮) 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜:- To find insights values and to create a dynamic Dashboard.
-3) MySQL:- Utilized to manage and manipulate large datasets related to Olist Store's e-commerce operations.
-4)Tableau:- Tableau serves as a powerful tool for visualizing data insights and creating interactive dashboards for Olist Store's performance analysis.
+#𝟭) 𝗘𝘅𝗰𝗲𝗹:- To clean data and add additional columns.
+#𝟮) 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜:- To find insights values and to create a dynamic Dashboard.
+#**3) MySQL**:- Utilized to manage and manipulate large datasets related to Olist Store's e-commerce operations.
+#**4)Tableau**:- Tableau serves as a powerful tool for visualizing data insights and creating interactive dashboards for Olist Store's performance analysis.
 
 POWER BI DASHBOARD -
 
