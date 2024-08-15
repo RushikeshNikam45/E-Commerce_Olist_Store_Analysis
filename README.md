@@ -4,7 +4,7 @@
 
 
 
-I'm thrilled to showcase my Power BI skills with a fantastic dashboard project that I've been working on. 🚀 This project has allowed me to transform complex data into insightful visualizations, empowering data-driven decisions.
+I'm thrilled to showcase my BI(Business Intelligence) skills with a fantastic dashboard project that I've been working on. 🚀 This project has allowed me to transform complex data into insightful visualizations, empowering data-driven decisions.
 
 
 
